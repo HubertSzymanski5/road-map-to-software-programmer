@@ -1,0 +1,13 @@
+ ;Kowalski;1992-03-24;3500;sales
+J@n;Kowalski;1992-03-24;3500;sales
+Adam;Nowak;1989-12-20;5500;it
+Jan;;1992-03-24;3500;sales
+Jan;Kow@lski;1992-03-24;3500;sales
+Jan;Kowalski;;3500;sales
+Jan;Kowalski;sadwxcaw;3500;sales
+Jan;Kowalski;2314-99-99;3500;sales
+Jan;Kowalski;1992-03-24;;sales
+Jan;Kowalski;1992-03-24;-3500;sales
+Jan;Kowalski;1992-03-24;3500;pffff@
+Jan;Kowalski;1992-03-24;3500;
+J@n;;1992-75-6;-3500;kukuk;;
