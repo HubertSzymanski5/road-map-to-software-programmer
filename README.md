@@ -51,3 +51,9 @@ be fixed. Example output of invalid file:
     line 23: Salary must be positive number...
 
 Remember to inform about all malformed lines, not only the first one.
+
+_Tips:_
+* _start small → first try reading the file, then reading the fields_
+* _don't be afraid to google stuff_
+* _look at Your code and try new things → can I achieve this functionality in other way? Try googling that crazy ideas ;)_
+* _see solution for some of my insane ideas → it is overcomplicated, but hey we are trying to learn with experiments_
